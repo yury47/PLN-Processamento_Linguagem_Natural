@@ -1,0 +1,1 @@
+print('Bom dia Yury, espero que este quadrimestre seja muito proveitoso para você e seus colegas!')
